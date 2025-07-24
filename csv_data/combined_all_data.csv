@@ -1,0 +1,215 @@
+text_content,font_size,font_name,is_bold,is_italic,is_all_caps,x_coordinate,y_coordinate,width,height,page_number,line_spacing,indentation_level,ends_with_colon,contains_numbering_bullets,is_first_line_on_page,distance_to_previous_line,distance_to_next_line,label,heading_score
+Application form for grant of LTC advance,12,"OIKOMH+Arial,Bold",True,False,False,199.8600006,720.9723816,237.3243103,16.17462158,1,23.72636414,25,False,False,True,0,23.72636414,title,4
+Name of the Government Servant,12,OILBGN+Tahoma,False,False,False,95.99856567,697.2460175,147.4557037,12.09280396,1,23.72636414,5,False,False,False,23.72636414,2.942810059,para,2
+PAY + SI + NPA,12,OILBGN+Tahoma,False,False,True,95.99856567,625.381073,72.9102478,12.0927887,1,18.11483765,5,False,False,False,18.11483765,2.942810059,para,3
+10.,12,OIKPLG+Tahoma-Bold,True,False,False,70.02000427,414.0640106,18.27253723,12.3948822,1,38.70475769,0,False,False,False,38.70475769,14.57762146,para,4
+S.No,12,OIKPLG+Tahoma-Bold,True,False,False,95.99856567,366.1800232,115.4679718,12.3948822,1,15.12330627,5,False,False,False,15.12330627,0,para,3
+Name,12,OIKPLG+Tahoma-Bold,True,False,False,118.7712402,366.1800232,213.73526,12.3948822,1,0,9,False,False,False,0,0,para,3
+Age,12,OIKPLG+Tahoma-Bold,True,False,False,343.4770966,366.1800232,111.252533,12.3948822,1,0,52,False,False,False,0,0,para,3
+Relationship,12,OIKPLG+Tahoma-Bold,True,False,False,444.5849915,366.1800232,153.7717896,12.3948822,1,0,71,False,False,False,0,12.18049622,para,2
+11.,12,OIKPLG+Tahoma-Bold,True,False,False,70.02000427,331.6263885,18.27253723,12.39486694,1,10.13417053,0,False,False,False,10.13417053,2.046325684,para,3
+12.,12,OIKPLG+Tahoma-Bold,True,False,False,70.02973938,263.2304382,18.27253723,12.3948822,1,5.875869751,0,False,False,False,5.875869751,41.53062439,para,3
+I declare that the particulars furnished above are true and correct to the best of my knowledge.  I undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,12,OILBGN+Tahoma,False,False,False,70.02973938,221.6998138,505.282135,23.79582214,1,41.53062439,0,False,False,False,41.53062439,35.2844696,para,2
+Date,12,OIKPLG+Tahoma-Bold,True,False,False,70.03948975,151.2575378,25.82260132,12.3948822,1,35.1578064,0,False,False,False,35.1578064,11.76148987,para,3
+Signature of Government Servant.,12,OIKPLG+Tahoma-Bold,True,False,False,403.0446167,139.496048,169.8358154,12.3948822,1,11.76148987,63,False,False,False,11.76148987,0,para,3
+Overview,12,"Arial,Bold",True,False,False,252.6499939,575.6199951,113.3040009,22.51200867,1,55.22399902,11,False,False,True,0,55.22399902,title,5
+Foundation Level Extensions,12,"Arial,Bold",True,False,False,139.345993,520.3959961,340.0103912,22.51200867,1,55.22399902,4,False,False,False,55.22399902,124.2059937,title,4
+Version 1.0,12,Arial,False,False,False,275.6900024,396.1900024,64.12799072,11.2559967,1,124.2059937,12,False,False,False,124.2059937,89.96000671,para,2
+International Software Testing Qualifications Board,12,Arial,False,False,False,103.3399963,306.2299957,410.0761414,16.88400269,1,89.96000671,2,False,False,False,89.96000671,177.6215973,para,2
+Copyright Notice,12,Arial,False,False,False,70.94400024,128.6083984,76.74179077,9.342483521,1,177.6215973,0,False,False,False,177.6215973,11.52371216,para,3
+Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).,12,Arial,False,False,False,70.94400024,660.5283966,412.3031616,9.342483521,2,0,0,False,False,True,0,0,para,2
+Revision History,12,"Arial,Bold",True,False,False,70.94400024,665.2684021,130.5847168,14.97047424,3,23.82000732,0,False,False,True,0,23.82000732,H1,5
+Version,12,"Arial,Bold",True,False,False,74.42399597,641.4483948,39.32208252,9.342483521,3,23.82000732,0,False,False,False,23.82000732,0,para,3
+Date,12,"Arial,Bold",True,False,False,146.4199982,641.4483948,24.37211609,9.342483521,3,0,1,False,False,False,0,0,para,2
+Remarks,12,"Arial,Bold",True,False,False,278.6900024,641.4483948,44.90963745,9.342483521,3,0,3,False,False,False,0,12.36000061,para,3
+18 JUNE 2013,12,Arial,False,False,True,146.4199982,629.0883942,67.68815613,9.342483521,3,0,1,False,False,False,0,0,para,5
+23 JULY 2013,12,Arial,False,False,True,146.4199982,616.8484039,66.00491333,9.342483521,3,0,1,False,False,False,0,0,para,5
+6 NOV 2013,12,Arial,False,False,True,146.4199982,604.6083984,57.72814941,9.342483521,3,0,1,False,False,False,0,0,para,5
+11 DEC 2013,12,Arial,False,False,True,146.4199982,592.3683929,62.66052246,9.342483521,3,0,1,False,False,False,0,0,para,5
+Amended Business Outcomes and Chapters matching,12,Arial,False,False,False,278.6900024,592.3683929,243.484024,9.342483521,3,0,3,False,False,False,0,12.23999023,para,2
+20 DEC 2013,12,Arial,False,False,True,146.4199982,580.1284027,62.65835571,9.342483521,3,0,1,False,False,False,0,0,para,5
+31 MAY 2014,12,Arial,False,False,True,146.4199982,567.8883972,63.2460022,9.342483521,3,0,1,False,False,False,0,0,para,5
+Table of Contents,12,"Arial,Bold",True,False,False,70.94400024,665.2684021,137.8145905,14.97047424,4,29.1000061,0,False,False,True,0,29.1000061,H1,5
+Revision History .......................................................................................................................................... 3,12,"Arial,Bold",True,False,False,70.94400024,636.168396,472.5422363,9.342483521,4,29.1000061,0,False,False,False,29.1000061,17.40011597,para,5
+Table of Contents ........................................................................................................................................ 4,12,"Arial,Bold",True,False,False,70.94400024,618.76828,472.5422363,9.342483521,4,17.40011597,0,False,False,False,17.40011597,17.51963806,para,4
+Introduction to the Foundation Level Extensions ............................................................................ 6,12,"Arial,Bold",True,False,False,90.98352051,601.248642,452.5027161,9.342483521,4,0,2,False,False,False,0,17.51963806,para,4
+Introduction to Foundation Level Agile Tester Extension ............................................................... 7,12,"Arial,Bold",True,False,False,90.98352051,583.7290039,452.5027161,9.342483521,4,0,2,False,False,False,0,17.63916016,para,4
+Entry Requirements ................................................................................................................... 8,12,Arial,False,False,False,110.9134827,531.6083221,432.5827179,9.342483521,4,0,4,False,False,False,0,11.52372742,para,2
+Overview of the Foundation Level Extension – Agile Tester Syllabus......................................... 10,12,"Arial,Bold",True,False,False,90.9934845,491.0810852,452.3393555,11.11535645,4,0.07968139648,2,False,False,False,0.07968139648,17.55947876,para,3
+References .......................................................................................................................................... 12,12,"Arial,Bold",True,False,False,90.98352051,444.7172852,452.3493195,9.342468262,4,0,2,False,False,False,0,17.63916016,para,5
+Trademarks ............................................................................................................................. 12,12,Arial,False,False,False,110.9035187,427.078125,432.43927,9.342468262,4,0,4,False,False,False,0,11.52372742,para,2
+Acknowledgements,12,Arial,False,False,False,70.94400024,665.2684021,142.7941132,14.97047424,5,40.62420654,0,False,False,True,0,40.62420654,H1,3
+1. Introduction to the Foundation Level Extensions,12,Arial,False,False,False,70.94400024,651.2283936,395.0754242,14.9704895,6,39.66743469,0,False,True,True,0,39.66743469,H1,5
+The following Foundation Level Extension syllabus has been released:,12,Arial,False,False,False,70.94400024,450.5874329,314.5865936,9.342483521,6,22.91796875,0,True,False,False,22.91796875,12.24082947,para,3
+Agile Tester,12,Arial,False,False,False,106.9494019,438.3466034,56.08483887,9.342483521,6,12.24082947,2,False,False,False,12.24082947,69.03276062,para,2
+2. Introduction to Foundation Level Agile Tester Extension,12,Arial,False,False,False,70.94400024,651.2283936,452.1228638,14.9704895,7,62.59535217,0,False,True,True,0,62.59535217,H1,5
+2.1 Intended Audience,12,Arial,False,False,False,70.94400024,558.9915924,147.7723999,13.16952515,7,29.64144897,0,False,False,False,29.64144897,19.0528717,H2,4
+2.2 Career Paths for Testers,12,Arial,False,False,False,70.94400024,291.8215942,184.2187347,13.16952515,7,41.12840271,0,False,False,False,41.12840271,53.39483643,H2,4
+2.3 Learning Objectives,12,Arial,False,False,False,70.94400024,162.6716003,154.6519928,13.16952515,7,41.16407776,0,False,False,False,41.16407776,30.46691895,H2,4
+2.4 Entry Requirements,12,Arial,False,False,False,70.94400024,619.351593,154.6856995,13.16952515,8,29.64936829,0,False,False,False,29.64936829,30.46691895,H2,5
+"To be able to participate in a Foundation Level Extension – Agile Tester exam, candidates must have obtained the ISTQB Foundation Level certificate.",12,Arial,False,False,False,70.94400024,588.8846741,473.0093536,22.55940247,8,30.46691895,0,False,False,False,30.46691895,29.65307617,para,2
+2.5 Structure and Course Duration,12,Arial,False,False,False,70.94400024,559.2315979,221.0050354,13.16952515,8,29.65307617,0,False,False,False,29.65307617,30.49691772,H2,4
+The syllabi must be taught in the following minimum number of days:,12,Arial,False,False,False,70.94400024,505.8167267,306.1116333,9.342468262,8,22.91795349,0,True,False,False,22.91795349,26.39833069,para,2
+Syllabus,12,"Arial,Bold",True,False,False,212.2100067,479.418396,43.79411316,9.342483521,8,26.39833069,15,False,False,False,26.39833069,0,para,4
+Days,12,"Arial,Bold",True,False,False,368.4700012,479.418396,26.53343201,9.342483521,8,0,33,False,False,False,0,18.11999512,para,3
+2.6 Keeping It Current,12,Arial,False,False,False,70.94400024,642.3916016,144.5754852,13.16952515,9,53.51435852,0,False,False,True,0,53.51435852,H2,4
+3. Overview of the Foundation Level Extension – Agile Tester Syllabus,12,Arial,False,False,False,70.94400024,635.8667145,474.5322876,36.1653595,10,47.47511292,0,False,True,True,0,47.47511292,H1,4
+3.1 Business Outcomes,12,Arial,False,False,False,70.94400024,588.3916016,155.338562,13.16952515,10,47.47511292,0,False,False,False,47.47511292,30.54660034,H2,4
+This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level Extension – Agile Tester certification.,12,Arial,False,False,False,70.94400024,557.8450012,472.5790863,20.94587708,10,30.54660034,0,False,False,False,30.54660034,22.94784546,para,2
+An Agile Tester can…,12,Arial,False,False,False,70.93403625,534.8971558,99.7195282,11.1153717,10,22.94784546,0,False,False,False,22.94784546,22.95875549,para,3
+AFM1,12,Arial,False,False,True,107.7799988,511.9384003,29.31236267,9.342483521,10,22.95875549,2,False,False,False,22.95875549,11.52000427,para,2
+AFM2,12,Arial,False,False,True,107.7799988,477.3784027,29.31236267,9.342483521,10,23.03999329,2,False,False,False,23.03999329,0,para,2
+AFM3,12,Arial,False,False,True,107.7799988,452.418396,29.31236267,9.342483521,10,24.96000671,2,False,False,False,24.96000671,0,para,2
+AFM4,12,Arial,False,False,True,107.7799988,427.3383942,29.31236267,9.342483521,10,25.08000183,2,False,False,False,25.08000183,0,para,2
+AFM5,12,Arial,False,False,True,107.7799988,402.2584076,29.31236267,9.342468262,10,25.07998657,2,False,False,False,25.07998657,0,para,2
+AFM6,12,Arial,False,False,True,107.7799988,377.1584015,29.31236267,9.342483521,10,25.1000061,2,False,False,False,25.1000061,11.3999939,para,2
+AFM7,12,Arial,False,False,True,107.7799988,342.718399,29.31236267,9.342483521,10,23.04000854,2,False,False,False,23.04000854,11.52000427,para,2
+3.2 Content,12,Arial,False,False,False,70.94400024,243.3415985,80.04202271,13.16952515,10,41.17308044,0,False,False,False,41.17308044,18.97320557,H2,4
+Chapter 1: Agile Software Development,12,Arial,False,False,False,70.94400024,224.3683929,178.2242432,9.342483521,10,18.97320557,0,False,False,False,18.97320557,23.64503479,H3,2
+The tester should be able to write testable user stories in collaboration with developers and business representatives.,12,Arial,False,False,False,106.3418427,141.1924438,437.3933868,20.74667358,10,23.64503479,2,False,False,False,23.64503479,23.64505005,para,2
+"Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",12,Arial,False,False,False,70.94400024,672.0484009,335.4079742,9.342483521,11,23.76455688,0,False,False,True,0,23.76455688,H3,3
+"Chapter 3: Agile Testing Methods, Techniques, and Tools",12,Arial,False,False,False,70.94400024,517.7978821,257.6054382,9.342483521,11,22.91795349,0,False,False,False,22.91795349,23.76455688,H3,3
+The tester should be able to explain to business stakeholders how to define testable acceptance criteria.,12,Arial,False,False,False,106.3418427,385.8776855,437.0826416,20.76660156,11,23.54544067,2,False,False,False,23.54544067,23.76457214,para,2
+4. References,12,Arial,False,False,False,70.94400024,651.2283936,113.2682343,14.9704895,12,46.27679443,0,False,True,True,0,46.27679443,H1,6
+4.1 Trademarks,12,Arial,False,False,False,70.94400024,604.9515991,105.6088715,13.16952515,12,46.27679443,0,False,False,False,46.27679443,18.94319153,H2,5
+4.2 Documents and Web Sites,12,Arial,False,False,False,70.94400024,518.8816071,196.8141174,13.16950989,12,41.09135437,0,False,False,False,41.09135437,18.82321167,H2,4
+Identifier,12,"Arial,Bold",True,False,False,76.34399414,500.0583954,44.90971375,9.342483521,12,18.82321167,1,False,False,False,18.82321167,0,para,3
+Reference,12,"Arial,Bold",True,False,False,193.3399963,500.0583954,51.02507019,9.342483521,12,0,23,False,False,False,0,14.63999939,para,3
+Ontario’s Libraries Working Together,12,Arial-Black,True,False,False,95.44059753,674.9087982,141.9604187,44.73588562,1,84.50505066,0,False,False,True,0,84.50505066,para,4
+RFP:Request for Proposal To Present a Proposal for Developing the Business Plan for the Ontario Digital Library,12,Arial-Black,True,False,False,90.31265259,590.4037476,404.8786316,44.53559875,1,84.50505066,0,False,False,False,84.50505066,131.5237427,title,4
+"March 21, 2003",12,ArialMT,False,False,False,238.2406006,424.8869934,140.8674011,27.29447937,1,33.99301147,13,False,False,False,33.99301147,369.0826721,para,3
+Ontario’s Digital Library,12,Arial-Black,True,False,False,90.04060364,675.2077179,228.4788361,27.85560608,2,41.50862122,0,False,False,True,0,41.50862122,H1,4
+Summary,12,Arial-Black,True,False,False,96.04060364,579.3959961,62.22961426,16.68000793,2,54.30310059,1,False,False,False,54.30310059,80.1734314,H2,5
+Timeline:,12,Arial-ItalicMT,False,False,False,96.04060364,298.1289673,45.20155334,14.9039917,2,24.71855164,1,True,False,False,24.71855164,37.31520081,H3,2
+mridley@uoguelph.ca,12,ArialMT,False,False,False,320.5610809,260.8137665,101.8681946,15.03646851,2,37.31520081,39,False,False,False,37.31520081,0.6048126221,para,2
+Those firms/consultants intended to submit a proposal to this RFP must indicate their intention to do so in an e-mail to Michael Ridley () by April 11th .,12,Arial-BoldItalicMT,True,False,False,96.04060364,260.2089539,431.7603149,28.35935974,2,0.6048126221,1,False,False,False,0.6048126221,36.63070679,para,2
+mridley@uoguelph.ca,12,ArialMT,False,False,False,123.3977203,656.3001556,101.7530518,15.03648376,3,37.31520081,6,False,False,False,37.31520081,50.64624023,para,2
+Background,12,Arial-Black,True,False,False,96.04060364,568.9559937,77.52334595,16.68000793,3,36.69792175,1,False,False,False,36.69792175,67.5753479,H2,5
+The principles which will define and guide the ODL are:,12,ArialMT,False,False,False,90.0328064,453.9810944,257.6871796,15.03648376,4,24.71856689,0,True,False,False,24.71856689,25.16015625,para,3
+Equitable access for all Ontarians:,12,Arial-BoldItalicMT,True,False,False,90.0328064,428.8209381,174.4959869,15.53327942,4,25.16015625,0,True,False,False,25.16015625,36.75215149,H3,6
+Shared decision-making and accountability:,12,Arial-BoldItalicMT,True,False,False,90.0328064,329.5934143,222.8782501,15.53327942,4,25.16017151,0,True,False,False,25.16017151,36.75215149,H3,5
+Shared governance structure:,12,Arial-BoldItalicMT,True,False,False,90.0328064,230.3659058,152.4558563,15.53327942,4,25.16015625,0,True,False,False,25.16015625,24.15553284,H3,6
+Shared funding:,12,Arial-BoldItalicMT,True,False,False,90.0328064,156.4530945,83.42878723,15.53327942,4,25.16017151,0,True,False,False,25.16017151,37.31520081,H3,5
+Local points of entry:,12,Arial-BoldItalicMT,True,False,False,89.99969482,705.7483673,109.2683258,15.53327942,5,50.07745361,0,True,False,True,0,50.07745361,H3,5
+Services envisioned for the ODL’s include:,12,ArialMT,False,False,False,89.99969482,630.4665985,199.1122894,15.03648376,5,25.20431519,0,True,False,False,25.20431519,25.88879395,para,3
+Access:,12,Arial-BoldItalicMT,True,False,False,89.99969482,604.5778046,45.21353149,15.53327942,5,25.88879395,0,True,False,False,25.88879395,50.06640625,H3,5
+Guidance and Advice:,12,Arial-BoldItalicMT,True,False,False,89.99969482,528.6226044,118.762558,15.53327942,5,25.88879395,0,True,False,False,25.88879395,37.34832764,H3,5
+Training:,12,Arial-BoldItalicMT,True,False,False,89.99969482,478.1145935,50.14190674,15.53327942,5,13.15968323,0,True,False,False,13.15968323,24.75167847,H3,3
+for library workers for the general public,12,ArialMT,False,False,False,107.9949036,453.362915,105.9553833,27.63311768,5,24.75167847,3,False,False,False,24.75167847,25.88879395,para,2
+Provincial Purchasing & Licensing:,12,Arial-BoldItalicMT,True,False,False,89.99969482,427.4741211,187.6833496,15.53327942,5,25.88879395,0,True,False,False,25.88879395,12.03359985,H3,5
+Technological Support:,12,Arial-BoldItalicMT,True,False,False,89.99969482,389.5517273,125.9348297,15.53327942,5,25.88879395,0,True,False,False,25.88879395,37.34832764,H3,5
+What could the ODL really mean?,12,Arial-Black,True,False,False,89.99969482,310.2845154,179.5467377,15.34561157,5,41.91888428,0,False,False,False,41.91888428,26.19792175,H3,4
+For each Ontario citizen it could mean:,12,Arial-BoldMT,True,False,False,89.99969482,284.0865936,196.0122223,15.72096252,5,26.19792175,0,True,False,False,26.19792175,24.87310791,H4,5
+For each Ontario student it could mean:,12,Arial-BoldMT,True,False,False,89.99969482,145.6339569,201.4230194,15.72096252,5,25.03872681,0,True,False,False,25.03872681,24.87312317,H4,5
+"Confidence that the services and resources people are using are credible, available when they need them and adaptable to different learning styles",12,ArialMT,False,False,False,162.0402069,693.6153564,344.1898041,27.63311768,6,25.76734924,12,False,False,True,0,25.76734924,H2,2
+For each Ontario library it could mean:,12,Arial-BoldMT,True,False,False,90.037323,667.8480072,195.3829346,15.72094727,6,25.76734924,0,True,False,False,25.76734924,37.46977234,para,5
+"The opportunity to gain from the provincial, collaborative partnership in order to provide a seamless gateway to digital resources and services",12,ArialMT,False,False,False,162.0402069,579.7487946,354.8821564,27.63313293,6,25.31472778,12,False,False,False,25.31472778,25.76734924,para,2
+For the Ontario government it could mean:,12,Arial-BoldMT,True,False,False,90.037323,553.9814453,215.649826,15.72094727,6,25.76734924,0,True,False,False,25.76734924,24.87312317,para,5
+"More information regarding the envisioned phasing, funding and resources required for the ODL can be found in the appendixes.",12,ArialMT,False,False,False,90.0483551,352.7332764,435.9927216,27.63311768,6,37.31520081,0,False,False,False,37.31520081,36.73727417,para,2
+The Business Plan to be Developed,12,Arial-Black,True,False,False,96.04060364,315.9960022,217.5234833,16.67999268,6,36.73727417,1,False,False,False,36.73727417,91.69190979,H2,4
+"Specifically, the business plan must include:",12,ArialMT,False,False,False,90.04060364,200.1817017,206.1925812,15.03648376,6,24.12239075,0,True,False,False,24.12239075,126.4631958,para,3
+Milestones,12,Arial-Black,True,False,False,96.04060364,504.9960022,69.99679565,16.67999268,7,49.42703247,1,False,False,False,49.42703247,29.54400635,H3,3
+Approach and Specific Proposal Requirements,12,Arial-Black,True,False,False,99.52059937,351.5160065,287.1237335,16.67999268,7,36.70895386,2,False,False,False,36.70895386,80.17201233,H2,4
+The proposal should include the following information:,12,ArialMT,False,False,False,90.04060364,246.6254425,251.736908,15.03648376,7,24.71855164,0,True,False,False,24.71855164,24.59712219,para,3
+references with details of work completed for these references,12,ArialMT,False,False,False,120.1466827,158.8022461,290.0506287,15.03646851,7,0,5,False,False,False,0,12.71807861,para,2
+Evaluation and Awarding of Contract,12,Arial-Black,True,False,False,96.04060364,694.1159973,228.4201202,16.68000793,8,63.85871887,1,False,False,True,0,63.85871887,H2,4
+"Specifically, proposals will be evaluated proposals according to the following criteria:",12,ArialMT,False,False,False,90.04060364,605.6601562,367.5104523,15.03648376,8,24.59712219,0,True,False,False,24.59712219,37.43663025,para,2
+Appendix A: ODL Envisioned Phases & Funding,12,Arial-Black,True,False,False,90.04060364,667.595993,293.0032196,16.68000793,9,28.14065552,0,False,False,True,0,28.14065552,H2,5
+Phase I: Business Planning,12,Arial-BoldMT,True,False,False,90.04049683,639.4553375,129.1087189,14.18304443,9,28.14065552,0,False,False,False,28.14065552,23.03747559,H3,4
+Timeline: March 2003 – September 2003,12,Arial-BoldMT,True,False,False,90.04049683,616.4178619,177.721817,14.18304443,9,23.03747559,0,False,False,False,23.03747559,11.52372742,para,4
+"Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government.",12,Arial-BoldMT,True,False,False,90.04049683,604.8941345,430.4637451,14.18304443,9,11.52372742,0,False,False,False,11.52372742,22.91795349,para,2
+Result: The ODL business plan,12,Arial-BoldMT,True,False,False,90.04049683,581.976181,136.3154297,14.18304443,9,22.91795349,0,False,False,False,22.91795349,45.69648743,para,4
+Phase II: Implementing and Transitioning,12,Arial-BoldMT,True,False,False,90.04049683,443.9604645,188.2328644,14.18302917,9,34.83010864,0,False,False,False,34.83010864,23.03749084,H3,4
+Timeline: April 2004 – December 2006,12,Arial-BoldMT,True,False,False,90.04049683,420.9229736,167.3894806,14.18304443,9,23.03749084,0,False,False,False,23.03749084,33.94367981,para,4
+Result: The ODL is implemented and validated,12,Arial-BoldMT,True,False,False,90.04049683,363.4338531,200.9693756,14.18304443,9,23.54544067,0,False,False,False,23.54544067,68.62438965,para,4
+Phase III: Operating and Growing the ODL,12,Arial-BoldMT,True,False,False,90.04049683,167.9190674,192.1730194,14.18302917,9,23.30639648,0,False,False,False,23.30639648,23.03749084,H3,4
+Timeline: January 2007 -,12,Arial-BoldMT,True,False,False,90.04049683,144.8815765,107.3329926,14.18304443,9,23.03749084,0,False,False,False,23.03749084,11.52371216,para,4
+Funding: $50 Million annually ($35 Million requested from government),12,Arial-BoldMT,True,False,False,90.04049683,133.3578644,301.2564545,14.18302917,9,11.52371216,0,False,False,False,11.52371216,22.91796875,para,3
+Result: The ODL is fully operational and sustainable,12,Arial-BoldMT,True,False,False,90.04049683,110.4398956,222.2462463,14.18304443,9,22.91796875,0,False,False,False,22.91796875,34.17276001,para,4
+OVERVIEW OF ODL FUNDING MODEL,12,Arial-BoldMT,True,False,True,245.8050385,458.5727997,176.9599152,14.18304443,10,29.43179321,24,False,False,False,29.43179321,26.0447998,para,6
+Funding Source,12,Arial-BoldMT,True,False,False,114.4006042,432.5279999,91.06593323,17.08799744,10,26.0447998,4,False,False,False,26.0447998,0,para,4
+2007,12,Arial-BoldMT,True,False,False,313.3605957,432.5279999,28.93171692,17.08799744,10,0,35,False,False,False,0,0,para,3
+2017,12,Arial-BoldMT,True,False,False,427.6006012,432.5279999,28.9329071,17.08799744,10,0,53,False,False,False,0,11.20500183,para,3
+$35M (70%),12,ArialMT,False,False,True,300.4434357,421.322998,54.27941895,13.56552124,10,0,33,False,False,False,0,0,para,3
+$33.75M (45%),12,ArialMT,False,False,True,408.0612335,421.322998,67.47428894,13.56552124,10,0,50,False,False,False,0,12.00180054,para,3
+$10M (20%),12,ArialMT,False,False,True,300.4733124,409.3211975,54.26393127,13.56552124,10,0,33,False,False,False,0,0,para,3
+$22.5M (30%),12,ArialMT,False,False,True,410.7205658,409.3211975,62.17707825,13.56552124,10,0,50,False,False,False,0,12.00180054,para,3
+$4.5M (9%),12,ArialMT,False,False,True,301.7780762,397.319397,51.52822876,13.56552124,10,0,33,False,False,False,0,0,para,3
+$15M (20%),12,ArialMT,False,False,True,414.6846466,397.319397,54.30407715,13.56552124,10,0,51,False,False,False,0,12.00180054,para,3
+$0.5M (1%),12,ArialMT,False,False,True,301.7980042,385.3175964,51.54202271,13.56552124,10,0,33,False,False,False,0,0,para,3
+$3.75M (5%),12,ArialMT,False,False,True,413.3898468,385.3175964,56.94332886,13.56552124,10,0,51,False,False,False,0,12.00180054,para,3
+TOTAL ANNUAL,12,Arial-BoldMT,True,False,True,114.410553,372.9273529,80.56652832,14.18304443,10,0.3884429932,4,False,False,False,0.3884429932,57.69827271,para,4
+Appendix B: ODL Steering Committee Terms of Reference,12,Arial-Black,True,False,False,96.04060364,682.595993,381.3049164,16.68000793,11,40.14065552,1,False,False,True,0,40.14065552,H2,5
+1. Preamble,12,Arial-BoldMT,True,False,False,90.04060364,642.4553375,55.78378296,14.18304443,11,40.14065552,0,False,True,False,40.14065552,34.05323792,H3,7
+2. Terms of Reference,12,Arial-BoldMT,True,False,False,90.04060364,561.9287415,101.6454163,14.18304443,11,23.42591858,0,False,True,False,23.42591858,45.57696533,H3,6
+2.1,12,ArialMT,False,False,False,95.79748535,493.3143005,13.05561829,13.56552124,11,23.03747559,1,False,False,False,23.03747559,22.92791748,para,2
+3. Membership,12,Arial-BoldMT,True,False,False,90.03063965,297.3911438,69.34638977,14.18302917,11,23.42591858,0,False,True,False,23.42591858,34.05323792,H3,7
+3.1,12,ArialMT,False,False,False,95.78752136,240.300415,13.05244446,13.56552124,11,23.03749084,1,False,False,False,23.03749084,0,para,2
+Schools:,12,ArialMT,False,False,False,108.8399658,240.300415,41.42007446,13.56552124,11,0,3,True,False,False,0,34.33210754,H4,2
+Universities:,12,ArialMT,False,False,False,108.8700562,194.325058,56.26345825,13.56552124,11,0,3,True,False,False,0,11.40420532,H4,2
+Colleges:,12,ArialMT,False,False,False,108.8700562,171.2776184,44.50259399,13.56552124,11,0,3,True,False,False,0,22.92791748,H4,2
+"Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR to name) 3.4 Public libraries:",12,ArialMT,False,False,False,95.77755737,148.3497009,408.8081207,25.0892334,11,22.92791748,1,True,False,False,22.92791748,45.97535706,para,2
+3.5,12,ArialMT,False,False,False,95.81950378,707.6134033,13.06474304,13.56552124,12,34.57116699,1,False,False,True,0,34.57116699,para,2
+3.6,12,ArialMT,False,False,False,95.82945251,650.0047607,13.06748962,13.56552124,12,23.03747559,1,False,False,False,23.03747559,11.52372742,para,2
+4. Appointment Criteria and Process,12,Arial-BoldMT,True,False,False,90.07258606,615.0551147,174.0833435,14.18304443,12,23.42591858,0,False,True,False,23.42591858,23.1370697,H3,6
+4.1,12,ArialMT,False,False,False,95.82945251,591.918045,16.18302917,13.56552124,12,23.1370697,1,False,False,False,23.1370697,12.00180054,para,2
+4.2,12,ArialMT,False,False,False,95.8394165,555.9126434,15.58666992,13.56552124,12,24.00360107,1,False,False,False,24.00360107,0,para,2
+Desired characteristics for steering committee appointees include:,12,ArialMT,False,False,False,126.0680237,555.9126434,277.7951508,13.56552124,12,0,6,True,False,False,0,24.12312317,H4,2
+Strategic thinkers;,12,ArialMT,False,False,False,126.0779724,531.7895203,77.9201355,13.56552124,12,24.12312317,6,False,False,False,24.12312317,12.24084473,para,2
+Committed to the concept of multi-sector partnerships;,12,ArialMT,False,False,False,126.0779724,519.5486755,229.2086029,13.56552124,12,12.24084473,6,False,False,False,12.24084473,12.12132263,para,2
+Knowledgeable about government structures;,12,ArialMT,False,False,False,126.0779724,495.1865234,193.3552704,13.56552124,12,12.24082947,6,False,False,False,12.24082947,12.12132263,para,2
+5. Term,12,Arial-BoldMT,True,False,False,90.04049683,419.6153412,51.72009277,14.18304443,12,23.24465942,0,False,True,False,23.24465942,34.05323792,H3,7
+6. Chair,12,Arial-BoldMT,True,False,False,90.04049683,362.1361847,52.4407959,14.18302917,12,23.42591858,0,False,True,False,23.42591858,22.64904785,H3,7
+Role of the Chair:,12,ArialMT,False,False,False,95.79737854,314.2883453,75.73487854,13.56552124,12,25.1987915,1,True,False,False,25.1987915,57.60864258,para,3
+7. Meetings,12,Arial-BoldMT,True,False,False,90.04049683,233.3733063,69.60205078,14.18302917,12,23.30639648,0,False,True,False,23.30639648,34.17276001,H3,6
+8. Lines of Accountability and Communication,12,Arial-BoldMT,True,False,False,90.04049683,175.8941345,219.2559052,14.18304443,12,23.30641174,0,False,True,False,23.30641174,22.64903259,H3,6
+8.1,12,ArialMT,False,False,False,95.79737854,153.2451019,13.06748962,13.56552124,12,22.64903259,1,False,False,False,22.64903259,11.52372742,para,2
+8.2,12,ArialMT,False,False,False,95.79737854,118.6838989,13.06474304,13.56552124,12,23.03747559,1,False,False,False,23.03747559,45.97535706,para,2
+8.3,12,ArialMT,False,False,False,95.80059814,695.9794006,13.06748962,13.56552124,13,34.4516449,1,False,False,True,0,34.4516449,para,2
+9. Financial and Administrative Policies,12,Arial-BoldMT,True,False,False,90.04371643,638.1018372,187.9789124,14.18304443,13,23.42591858,0,False,True,False,23.42591858,22.64903259,H3,6
+9.1,12,ArialMT,False,False,False,95.81056213,615.4528046,13.05563354,13.56552124,13,22.64903259,1,False,False,False,22.64903259,0,para,2
+Conflict of Interest:,12,ArialMT,False,False,False,108.8899078,581.0011597,83.14483643,13.56552124,13,0,3,True,False,False,0,57.49908447,para,2
+Appendix C: ODL’s Envisioned Electronic Resources,12,Arial-Black,True,False,False,96.04060364,682.595993,344.0062256,16.68000793,14,85.72805786,0,False,False,True,0,85.72805786,H2,5
+Reference Resources,12,ArialMT,False,False,False,106.3610535,573.8304596,94.46417236,13.56552124,14,0,1,False,False,False,0,34.44168091,para,2
+"directories: companies, associations, organizations, governments, educational institutions, etc. etc.",12,ArialMT,False,False,False,96.04040527,539.3887787,383.9164276,24.96972656,14,34.44168091,0,False,False,False,34.44168091,11.52371216,para,2
+indexing and abstracting services,12,ArialMT,False,False,False,101.6678009,435.7948151,141.9861298,13.56552124,14,11.52372742,0,False,False,False,11.52372742,11.52371216,para,2
+virtual reference services,12,ArialMT,False,False,False,101.6678009,412.8668976,107.0967255,13.56552124,14,11.40420532,0,False,False,False,11.40420532,11.52371216,para,2
+current awareness services,12,ArialMT,False,False,False,99.15788269,378.2957458,117.6257935,13.56552124,14,11.52371216,0,False,False,False,11.52371216,23.03749084,para,2
+Subject Guides,12,ArialMT,False,False,False,106.3549652,355.258255,66.78952026,13.56552124,14,0,1,False,False,False,0,22.91795349,para,2
+arts and humanities,12,ArialMT,False,False,False,99.15788269,332.3403015,84.88560486,13.56552124,14,22.91795349,0,False,False,False,22.91795349,11.52372742,para,2
+social sciences,12,ArialMT,False,False,False,99.15788269,251.7937775,65.90821838,13.56552124,14,11.52372742,0,False,False,False,11.52372742,11.52371216,para,2
+"guides to information gathering methodologies, information literacy",12,ArialMT,False,False,False,99.15788269,194.314621,280.4760742,13.56552124,14,23.03747559,0,False,False,False,23.03747559,11.52372742,para,2
+study guides,12,ArialMT,False,False,False,99.15788269,182.7908936,55.48670959,13.56552124,14,11.52372742,0,False,False,False,11.52372742,11.52371216,para,2
+study skill development,12,ArialMT,False,False,False,99.15788269,171.2671814,100.0863342,13.56552124,14,11.52371216,0,False,False,False,11.52371216,11.52372742,para,2
+web-based curricula,12,ArialMT,False,False,False,99.15788269,159.743454,87.10766602,13.56552124,14,11.52372742,0,False,False,False,11.52372742,11.40419006,para,2
+"Journals, books, maps, music etc.",12,ArialMT,False,False,False,106.3549652,125.3017731,144.9762268,13.56552124,14,0,1,False,False,False,0,0,para,2
+Parsippany -Troy Hills STEM Pathways,12,MUFUZY+Calibri-Bold,True,False,False,125.820694,727.5194244,443.3259735,31.25604248,1,98.33551025,23,False,False,True,0,98.33551025,title,4
+Goals:,12,MUFUZY+Sniglet-Regular,False,False,False,45.11529541,592.0268097,40.79299927,17.57594299,1,37.15710449,7,True,False,False,37.15710449,49.45974731,H1,4
+Promote interactions with STEM professionals to learn about future opportunities.,12,MUFUZY+Calibri,False,False,False,45.41261292,475.0098267,288.6893005,25.75691223,1,27.02288818,7,False,False,False,27.02288818,27.02290344,para,2
+PATHWAY OPTIONS,12,MUFUZY+Sniglet-Regular,False,False,True,239.8661957,334.8973694,129.4128876,19.17854309,1,45.53230286,45,False,False,False,45.53230286,25.47219849,H1,3
+REGULAR PATHWAY,12,MUFUZY+Calibri-Bold,True,False,True,117.1802979,309.4251709,128.7434692,17.08618164,1,25.47219849,21,False,False,False,25.47219849,0,H2,5
+DISTINCTION PATHWAY,12,MUFUZY+Calibri-Bold,True,False,True,351.722702,309.4251709,151.601593,17.08618164,1,0,66,False,False,False,0,27.61585999,H2,4
+4 credits of Math - At least one math course should be an AP Math class.,12,MUFUZY+ArialMT,False,False,False,345.431427,281.8093109,179.0936737,28.13542175,1,27.61585999,65,False,False,False,27.61585999,4.504974365,para,3
+4 credits of Math,12,MUFUZY+ArialMT,False,False,False,99.43862915,277.3043365,84.05403137,14.62910461,1,4.504974365,18,False,False,False,4.504974365,13.50631714,para,3
+4 credits of Science,12,MUFUZY+ArialMT,False,False,False,99.43862915,263.7980194,98.73817444,14.62908936,1,13.50631714,18,False,False,False,13.50631714,13.5063324,para,3
+4 credits of STEM-designated electives,12,MUFUZY+ArialMT,False,False,False,99.43862915,250.291687,193.502594,14.62910461,1,13.5063324,18,False,False,False,13.5063324,9.001342773,para,3
+4 credits of Science- At least one science course should be an AP Science class.,12,MUFUZY+ArialMT,False,False,False,345.431427,241.2903442,163.2206268,41.64173889,1,9.001342773,65,False,False,False,9.001342773,4.504989624,para,2
+4 credits of STEM-designated electives,12,MUFUZY+ArialMT,False,False,False,345.431427,227.7840118,193.7998352,14.62910461,1,9.001342773,65,False,False,False,9.001342773,27.01264954,para,3
+One must be a Computer Science/Technology Class,12,MUFUZY+ArialMT,False,False,False,345.431427,200.7713623,133.2690277,28.13542175,1,27.01264954,65,False,False,False,27.01264954,13.5063324,para,2
+Join and actively participate in a STEM-related extracurricular activity or club every year of attendance. -,12,MUFUZY+ArialMT,False,False,False,99.43862915,128.7347565,193.1614075,41.64175415,1,39.94657898,18,False,False,False,39.94657898,9.001342773,para,2
+Join and actively participate in a STEM-related extracurricular activity or club every year of attendance.,12,MUFUZY+ArialMT,False,False,False,345.431427,79.21443176,193.1614075,41.64175415,1,40.51898193,65,False,False,False,40.51898193,40.51896667,para,2
+Either participate in an internship or design and implement a community impact project.,12,MUFUZY+ArialMT,False,False,False,345.431427,38.69546509,176.1105042,41.64173889,1,40.51896667,65,False,False,False,40.51896667,0,para,2
+DATE: ---------------,12,*Times New Roman-1299,False,False,True,31.19999695,284.4920044,264.4620514,11.7849884,1,28.602005,3,False,False,True,0,28.602005,para,3
+TIME:,12,*Times New Roman-Bold-1298,True,False,True,31.19999695,255.8899994,37.78065491,11.16700745,1,28.602005,3,True,False,False,28.602005,29.27999878,para,6
+ADDRESS:,12,*Times New Roman-Bold-1298,True,False,True,32.77980042,226.6100006,69.875,11.16699219,1,29.27999878,3,True,False,False,29.27999878,14.02700806,para,6
+TOPJUMP,12,*Times New Roman-Bold-1298,True,False,True,131.514801,212.5829926,66.7348938,11.16700745,1,14.02700806,11,False,False,False,14.02700806,13.93598938,para,3
+3735 PARKWAY,12,*Times New Roman-Bold-1298,True,False,True,114.7187958,198.6470032,101.5953827,11.16699219,1,13.93598938,9,False,False,False,13.93598938,14.01400757,para,7
+"PIGEON FORGE, TN 37863",12,*Times New Roman-Bold-1298,True,False,True,81.45179749,184.6329956,167.8688965,11.16700745,1,14.01400757,7,False,False,False,14.01400757,11.23300171,para,4
+(NEAR DIXIE STAMPEDE ON THE PARKWAY),12,*Arial-1304,False,False,True,58.32000732,173.3999939,212.6734161,9.120010376,1,11.23300171,5,False,False,False,11.23300171,26.19299316,para,2
+RSVP: ---------------,12,*Times New Roman-1297,False,False,True,29.75999451,147.2070007,266.9096375,11.8500061,1,26.19299316,2,False,False,False,26.19299316,25.40699768,para,4
+CLOSED TOED SHOES ARE REQUIRED FOR CLIMBING,12,*Arial-Bold-1303,True,False,True,62.16000366,121.8000031,204.4589539,6.779998779,1,25.40699768,5,False,False,False,25.40699768,34.32000732,para,5
+"PARENTS OR GUARDIANS NOT ATTENDING THE PARTY, PLEASE VISIT (<http://TOPJUMP.COM>)TOPJUMP.COM TO FILL OUT WAIVER SO YOUR CHILD CAN ATTEND.",12,*Arial-Bold-1303,True,False,False,59.52000427,87.47999573,209.4797821,24.90000916,1,34.32000732,5,False,False,False,34.32000732,51.36999512,para,4
+WWW. TOPJUMP.COM,12,*Times New Roman-1295,False,False,True,93.6000061,36.11000061,146.9616394,17.94000244,1,51.36999512,8,False,False,False,51.36999512,36.11000061,para,3
+T R-A M P O L I N E P A R K D,12,*Times New Roman-Bold-1302,True,False,True,0,0,326.1593933,686.1551361,1,36.11000061,0,False,False,False,36.11000061,0,para,4
+FOR: ---------------,12,*Times New Roman-1297,False,False,True,0,0,326.1593933,686.1551361,1,0,0,False,False,False,0,0,para,2
+HOPE TO SEE YOU THERE!,12,*Times New Roman-Bold-1296,True,False,True,0,0,326.1593933,686.1551361,1,0,0,False,False,False,0,0,H1,4
