@@ -1,0 +1,26 @@
+# Adobe API Credentials - CRITICAL
+*credentials*.json
+pdfservices-api-credentials.json
+.env
+
+# Data files - Large/Generated
+raw_pdfs/
+*.pdf
+generated_labels/
+processed_data/
+trained_models/*.joblib
+trained_models/*.pkl
+
+# Python essentials
+__pycache__/
+*.pyc
+venv/
+adobe_env/
+
+# IDE/System
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
